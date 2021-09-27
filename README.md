@@ -16,7 +16,7 @@
     - Scores by school size remains unchanged. 
     - Scores by school type remains unchnaged. 
     
-[School District Overview After NaN]  <img width="976" alt="Screen Shot 2021-09-26 at 10 56 25 PM" src="https://user-images.githubusercontent.com/89168119/134839164-66e373c3-51cc-47ee-b6a6-8f0c50c6b793.png">
+[School District Overview After NaN] <img width="976" alt="Screen Shot 2021-09-26 at 10 56 25 PM" src="https://user-images.githubusercontent.com/89168119/134839164-66e373c3-51cc-47ee-b6a6-8f0c50c6b793.png">
 
 [THS Scores Before NaN] <img width="985" alt="Screen Shot 2021-09-26 at 10 59 40 PM" src="https://user-images.githubusercontent.com/89168119/134839281-0a64af48-8747-4cc5-82a4-8f845f782fc7.png">
 
@@ -26,7 +26,7 @@
 
 [School Size] <img width="766" alt="Screen Shot 2021-09-26 at 11 03 00 PM" src="https://user-images.githubusercontent.com/89168119/134839505-4660602f-7aba-4d04-a247-bdf800e08e72.png" title="School Size">
 
-[School Type]<img width="724" alt="Screen Shot 2021-09-26 at 11 03 30 PM" src="https://user-images.githubusercontent.com/89168119/134839539-d9713ccb-cb68-41ee-b54b-b4441c4c9153.png" title="School Type">
+[School Type] <img width="724" alt="Screen Shot 2021-09-26 at 11 03 30 PM" src="https://user-images.githubusercontent.com/89168119/134839539-d9713ccb-cb68-41ee-b54b-b4441c4c9153.png" title="School Type">
 ## Summary 
 
 
