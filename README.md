@@ -20,7 +20,7 @@
 
 [THS Scores Before NaN] <img width="978" alt="Screen Shot 2021-09-26 at 11 09 03 PM" src="https://user-images.githubusercontent.com/89168119/134839934-88d8c9cd-5025-44ce-8685-8e47efc912a7.png">
 
-[THS Scores After NaN] <img width="988" alt="Screen Shot 2021-09-26 at 11 00 08 PM" src="https://user-images.githubusercontent.com/89168119/134839318-afcab4ee-c9bc-4559-8fec-d88bd188bf65.png">
+[THS Scores After NaN] <img width="973" alt="Screen Shot 2021-09-26 at 11 09 46 PM" src="https://user-images.githubusercontent.com/89168119/134839978-7a9e3e23-4ec7-4b8e-a93e-f19fc5471ffb.png">
 
 [Spending] <img width="919" alt="Screen Shot 2021-09-26 at 11 02 36 PM" src="https://user-images.githubusercontent.com/89168119/134839477-f6b0ca3e-c2d3-43ed-a435-3f87ad60a268.png">
 
@@ -31,6 +31,7 @@
 
 h
     There was a definite change in the some of the metrics of the data upon removing Thomas High School's 9th grade scores from the dataset. Especially when it comes to the school district's overall percentages and Thomas High School's percentages for its passing math, reading, and overall percentages. This might be indicative of cheating, especially because it was able to shift the district's percentages, and such a dramatic shift for its own percentages. But, even before replacing the grades with NaNs, Thomas High School was still ranked 2nd best so this could have just been a good year for them. 
+
 
 
 
