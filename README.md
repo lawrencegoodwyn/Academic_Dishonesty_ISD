@@ -30,9 +30,8 @@
 
 
 <img width="724" alt="Screen Shot 2021-09-26 at 11 03 30 PM" src="https://user-images.githubusercontent.com/89168119/134839539-d9713ccb-cb68-41ee-b54b-b4441c4c9153.png" title="School Type">
-## Summary 
 
-h
+## Summary 
     There was a definite change in the some of the metrics of the data upon removing Thomas High School's 9th grade scores from the dataset. Especially when it comes to the school district's overall percentages and Thomas High School's percentages for its passing math, reading, and overall percentages. This might be indicative of cheating, especially because it was able to shift the district's percentages, and such a dramatic shift for its own percentages. But, even before replacing the grades with NaNs, Thomas High School was still ranked 2nd best so this could have just been a good year for them. 
 
 
