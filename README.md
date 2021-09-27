@@ -26,7 +26,7 @@
 
 [School size] <img width="766" alt="Screen Shot 2021-09-26 at 11 03 00 PM" src="https://user-images.githubusercontent.com/89168119/134839505-4660602f-7aba-4d04-a247-bdf800e08e72.png">
 
-<img width="724" alt="Screen Shot 2021-09-26 at 11 03 30 PM" src="https://user-images.githubusercontent.com/89168119/134839539-d9713ccb-cb68-41ee-b54b-b4441c4c9153.png" "School type">
+<img width="724" alt="Screen Shot 2021-09-26 at 11 03 30 PM" src="https://user-images.githubusercontent.com/89168119/134839539-d9713ccb-cb68-41ee-b54b-b4441c4c9153.png" title="School type">
 ## Summary 
 
 
